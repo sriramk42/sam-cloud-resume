@@ -5,3 +5,5 @@ This repository contains the necessary code for a serverless back-end website vi
 Things to still work on:
 1. Github Actions to automate deployment
 2. Tests
+
+The front end code is present [here](https://github.com/sriramk42/cloud-resume-challenge). The website can be accessed at https://sriramkrishnanresume.com/
